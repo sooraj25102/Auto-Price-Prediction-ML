@@ -134,10 +134,8 @@ Key activities:
 
 | Model | MAE | RMSE | R² Score |
 |------|------:|------:|------:|
-| Linear Regression | | | |
-| Random Forest | | | |
-
-*(Replace these with your actual results.)*
+| Linear Regression |3174.5091612245647 |4924.882365960312 |0.8017563871328728 |
+| Random Forest |1904.5325406504069 |3061.5947719977466 |0.9233869246262107 |
 
 ---
 
