@@ -137,27 +137,11 @@ Key activities:
 | Linear Regression |3174.5091612245647 |4924.882365960312 |0.8017563871328728 |
 | Random Forest |1904.5325406504069 |3061.5947719977466 |0.9233869246262107 |
 
----
 
-## 📷 Project Visualizations
-
-Add screenshots here after uploading them to the `images` folder.
-
-Example:
-
-```markdown
-### Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
-### Actual vs Predicted
-
-![Actual vs Predicted](images/actual_vs_predicted.png)
-```
+### Key Insights
+- Random Forest outperformed Linear Regression.
+- Feature engineering improved prediction accuracy.
+-  Vehicle age and engine specifications were among the most influential features.
 
 ---
 
